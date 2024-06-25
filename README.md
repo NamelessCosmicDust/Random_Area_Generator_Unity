@@ -1,5 +1,5 @@
 # Random_Area_Generator_Unity
-A random map generator for Unity Engine and my first ever public repository!
+A random area generator (intended for ARPG) for Unity Engine and my first ever public repository!
 
 This is not totally my own idea. I watched a video tutorial by BlackthronProd and downloaded his code to learn how he did.
 I did not want to rely on Unity colliders and wanted to try a different way and this is it. But honestly, using colliders makes things easier...
